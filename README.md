@@ -1,5 +1,8 @@
 mail bg
 <img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/3b9f5fcb-6498-4379-bb44-f4dbb39dff58" />
+black bg
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/a93c5ab5-adbc-43d2-8ab1-bebc0b347676" />
+
 
 footer
 <img width="1600" height="639" alt="image" src="https://github.com/user-attachments/assets/1888bd88-db52-45a7-9422-63a377b75d54" />
