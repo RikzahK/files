@@ -1,3 +1,11 @@
+mail bg
+<img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/3b9f5fcb-6498-4379-bb44-f4dbb39dff58" />
+
+footer
+<img width="1600" height="639" alt="image" src="https://github.com/user-attachments/assets/1888bd88-db52-45a7-9422-63a377b75d54" />
+
+
+
 nearing expiry
 <img width="940" height="788" alt="image" src="https://github.com/user-attachments/assets/fe0e7a5f-c3d5-4a34-9bd6-ce3a894b97fc" />
 <img width="476" height="484" alt="image" src="https://github.com/user-attachments/assets/58555d04-46a4-4877-923e-6fb51efc1b8e" />
