@@ -3,6 +3,8 @@ mail bg
 
 footer
 <img width="1600" height="639" alt="image" src="https://github.com/user-attachments/assets/1888bd88-db52-45a7-9422-63a377b75d54" />
+header
+<img width="1600" height="75" alt="image" src="https://github.com/user-attachments/assets/911bc5ca-0164-403f-b5db-cd64412ed4ac" />
 
 
 
